@@ -197,7 +197,6 @@
   font-size: 18px;
   font-weight: 600;
   line-height: 28px;
-  cursor: pointer;
 }
 @media (min-width: 576px) {
   .frontSearch__form__btn {
@@ -241,7 +240,6 @@
 .frontSearch__btn--close.active {
   display: flex;
   margin-left: 20px;
-  cursor: pointer;
 }
 .frontSearch__btn--close svg {
   width: 28px;
@@ -373,7 +371,6 @@
   width: 100%;
 }
 .bonusWelcomeTypeWidget__card {
-  cursor: pointer;
   width: 100%;
   background: linear-gradient(
       0deg,
@@ -471,7 +468,7 @@
 .bonusWelcomeTypeWidget__card__btn {
   border: none;
   outline: none;
-  cursor: pointer;
+
   text-align: center;
   width: 100%;
   background: #05e98f;
@@ -488,7 +485,6 @@
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  cursor: pointer;
 }
 .bonusWelcomeTypeWidget__card__tnc--toogle-txt {
   font-weight: 400;
@@ -525,7 +521,6 @@
   width: 100%;
 }
 .bonusWelcomeTypeWidget__more-bonuses__btn {
-  cursor: pointer;
   width: 100%;
   border: none;
   outline: none;
@@ -576,7 +571,6 @@
   }
 }
 .scrollButtonWidget__btn {
-  cursor: pointer;
   width: 100%;
   border: none;
   outline: none;
@@ -659,13 +653,11 @@
   border: none;
   padding: 0;
   color: white;
-  cursor: pointer;
 }
 .block__intro {
   margin-bottom: 32px;
 }
 .block__intro--more-btn {
-  cursor: pointer;
   margin-left: 6px;
   color: #6c6c6c;
   text-decoration: underline;
@@ -711,7 +703,6 @@
   width: 100%;
 }
 .buttonViewBonusesWidget__more-bonuses__btn {
-  cursor: pointer;
   width: 100%;
   border: none;
   outline: none;
@@ -1126,7 +1117,6 @@
   display: none;
 }
 .table_cards:not(.table_cards-half) .card_signUp-banner {
-  cursor: pointer;
   width: 100%;
   flex-wrap: wrap;
   display: flex;
@@ -1180,7 +1170,7 @@
   border-radius: 16px;
   width: 100%;
   max-width: 210px;
-  cursor: pointer;
+
   color: #ffffff;
   background: #181818;
 }
@@ -1316,10 +1306,8 @@
   display: flex;
   flex-wrap: wrap;
   padding-bottom: 16px;
-  cursor: pointer;
 }
 .table_cards-card[data-expired="true"] {
-  cursor: auto;
 }
 .table_cards-card:last-of-type {
   margin-bottom: 0;
@@ -1570,7 +1558,7 @@
   font-size: 0;
   position: relative;
   line-height: normal;
-  cursor: pointer;
+
   border: none;
   background: none;
   padding: 0;
@@ -1723,7 +1711,7 @@
   display: flex;
   align-items: center;
   justify-content: flex-end;
-  cursor: pointer;
+
   overflow: hidden;
 }
 .promo_code-block:before {
@@ -1910,7 +1898,7 @@
   font-size: 14px;
   line-height: 24px;
   letter-spacing: 0.01em;
-  cursor: pointer;
+
   color: #2b2b2b;
   margin: 12px auto 0 auto;
 }
@@ -1965,7 +1953,7 @@
   border: unset;
   color: #ffffff;
   border-radius: 16px;
-  cursor: pointer;
+
   width: fit-content;
   height: auto;
   padding: 20px 40px;
@@ -2073,7 +2061,6 @@ a.table-show-more {
   }
 }
 .bonus_disclaimer_popup--close {
-  cursor: pointer;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -2103,7 +2090,7 @@ a.table-show-more {
   font-size: 14px;
   line-height: 20px;
   text-decoration: underline;
-  cursor: pointer;
+
   margin-bottom: 12px;
 }
 @media (min-width: 768px) {
@@ -2660,7 +2647,7 @@ text,
   box-sizing: border-box;
   position: absolute;
   line-height: 10px;
-  cursor: pointer;
+
   color: #fff;
   height: 15px;
   width: 15px;
@@ -3465,7 +3452,6 @@ text,
   font-family: "Poppins", sans-serif;
 }
 .faq__link {
-  cursor: pointer;
   color: #5554de;
   text-decoration: underline;
 }
@@ -3523,7 +3509,7 @@ text,
 }
 .accordion__card-title {
   width: 100%;
-  cursor: pointer;
+
   position: relative;
   padding-top: 16px;
   padding-bottom: 16px;
@@ -4005,7 +3991,6 @@ text,
   margin-bottom: 8px;
 }
 .authorWidget__data a {
-  cursor: pointer;
 }
 .authorWidget__data-date {
   font-weight: 400;
@@ -4025,7 +4010,6 @@ text,
   }
 }
 .authorWidget__socials .social {
-  cursor: pointer;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -4438,7 +4422,6 @@ text,
   font-size: 18px;
   font-weight: 600;
   line-height: 28px;
-  cursor: pointer;
 }
 
 @media (min-width: 576px) {
@@ -4490,7 +4473,6 @@ text,
 .frontSearch__btn--close.active {
   display: flex;
   margin-left: 20px;
-  cursor: pointer;
 }
 
 .frontSearch__btn--close svg {
@@ -4903,7 +4885,6 @@ text,
 }
 
 .table_cards:not(.table_cards-half) .card_signUp-banner {
-  cursor: pointer;
   width: 100%;
   flex-wrap: wrap;
   display: flex;
@@ -4964,7 +4945,7 @@ text,
   border-radius: 16px;
   width: 100%;
   max-width: 210px;
-  cursor: pointer;
+
   color: #fff;
   background: #181818;
 }
@@ -5127,7 +5108,6 @@ text,
   display: flex;
   flex-wrap: wrap;
   padding-bottom: 16px;
-  cursor: pointer;
 }
 
 .table_cards-card[data-expired="true"] {
@@ -5414,7 +5394,7 @@ text,
   font-size: 0;
   position: relative;
   line-height: normal;
-  cursor: pointer;
+
   border: none;
   background: 0 0;
   padding: 0;
@@ -5581,7 +5561,7 @@ text,
   display: flex;
   align-items: center;
   justify-content: flex-end;
-  cursor: pointer;
+
   overflow: hidden;
 }
 
@@ -5793,7 +5773,7 @@ text,
   font-size: 14px;
   line-height: 24px;
   letter-spacing: 0.01em;
-  cursor: pointer;
+
   color: #2b2b2b;
   margin: 12px auto 0;
 }
@@ -5855,7 +5835,7 @@ text,
   border: unset;
   color: #fff;
   border-radius: 16px;
-  cursor: pointer;
+
   width: fit-content;
   height: auto;
   padding: 20px 40px;
@@ -5978,7 +5958,6 @@ a.table-show-more {
 }
 
 .bonus_disclaimer_popup--close {
-  cursor: pointer;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -6011,7 +5990,7 @@ a.table-show-more {
   font-size: 14px;
   line-height: 20px;
   text-decoration: underline;
-  cursor: pointer;
+
   margin-bottom: 12px;
 }
 
@@ -6654,7 +6633,7 @@ text,
   box-sizing: border-box;
   position: absolute;
   line-height: 10px;
-  cursor: pointer;
+
   color: #fff;
   height: 15px;
   width: 15px;
@@ -7004,7 +6983,6 @@ text,
   outline: none;
   background: 0 0;
   color: #5554de;
-  cursor: pointer;
 }
 
 .topSlotsWidget__table__more:hover {
@@ -7033,7 +7011,7 @@ text,
 
 .topSlotsWidget__play--btn {
   width: 100%;
-  cursor: pointer;
+
   border: none;
   outline: none;
   padding: 16px 40px;
@@ -7100,7 +7078,6 @@ text,
   font-size: 12px;
   line-height: 17px;
   padding: 8px;
-  cursor: pointer;
 }
 
 .widget-custom-items a span {
@@ -7929,7 +7906,6 @@ blockquote {
   margin: 0;
 }
 .table_style_list tr p a {
-  cursor: pointer;
   color: #5554de;
   text-decoration: underline;
 }
@@ -7953,7 +7929,7 @@ blockquote {
   border-radius: 16px;
   padding: 0 40px;
   height: 68px;
-  cursor: pointer;
+
   font-weight: 600;
 }
 .custom_button-text {
@@ -8090,7 +8066,7 @@ blockquote {
   margin-right: 20px;
   display: flex;
   align-items: center;
-  cursor: pointer;
+
   transition: 0.2s;
 }
 .adminPanel label.ContentQuickLinksLabel {
@@ -8263,7 +8239,6 @@ body {
   padding: 0 20px;
 }
 .header_nav .header_menu--signIn-button {
-  cursor: pointer;
   margin-bottom: 20px;
   width: 100%;
   height: 52px;
@@ -8311,7 +8286,7 @@ body {
     width: 100%;
     max-width: 156px;
     margin-top: 20px;
-    cursor: pointer;
+
     outline: unset;
   }
   .header_nav .header_menu--signIn-banner-box .option .text {
@@ -8440,7 +8415,6 @@ body {
   line-height: 24px;
   color: #ededed;
   text-transform: uppercase;
-  cursor: pointer;
 }
 .header_nav.active
   .header_menu-item.active
@@ -8694,7 +8668,6 @@ body {
   border-radius: 12px;
   display: flex;
   z-index: 5;
-  cursor: pointer;
 }
 @media (max-width: 992px) {
   .header_search-btn {
@@ -8715,7 +8688,7 @@ body {
   display: none;
   align-items: center;
   justify-content: center;
-  cursor: pointer;
+
   position: absolute;
   right: -30px;
 }
@@ -8751,7 +8724,7 @@ body {
   align-items: center;
   justify-content: center;
   margin-right: 10px;
-  cursor: pointer;
+
   transition: 0.2s;
 }
 .header_search-container-btns button.active,
@@ -8935,7 +8908,7 @@ body {
   border-radius: 12px;
   margin-left: 10px;
   display: none;
-  cursor: pointer;
+
   z-index: 10;
 }
 @media (max-width: 992px) {
@@ -8973,7 +8946,7 @@ body {
   margin-left: 48px;
   display: flex;
   align-items: center;
-  cursor: pointer;
+
   position: relative;
 }
 .header_profile .icon_user_line {
@@ -8999,7 +8972,7 @@ body {
   width: 48px;
   height: 48px;
   margin-left: 40px;
-  cursor: pointer;
+
   position: relative;
 }
 @media (max-width: 815px) {
@@ -9252,7 +9225,6 @@ body {
   padding: 10px;
   width: 44px;
   height: 44px;
-  cursor: pointer;
 }
 .footer-follow-social button:last-of-type {
   margin-right: 0;
@@ -9318,7 +9290,6 @@ body {
   font-weight: 600;
   font-size: 16px;
   line-height: 24px;
-  cursor: pointer;
 }
 .footer-subscribe-privacy {
   font-weight: 400;
@@ -9338,7 +9309,6 @@ body {
   margin: 0;
   color: #fff;
   text-decoration: underline;
-  cursor: pointer;
 }
 .footer-support {
   padding: 32px;
@@ -9494,7 +9464,7 @@ body {
   border-radius: 16px;
   padding: 0 40px;
   height: 68px;
-  cursor: pointer;
+
   font-weight: 600;
 }
 .custom_button-text {
@@ -9549,7 +9519,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  cursor: pointer;
 }
 .localeSwitcher_btn-text {
   display: none;
@@ -9682,7 +9651,6 @@ body {
   display: none;
   align-items: center;
   justify-content: center;
-  cursor: pointer;
 }
 .localeSwitcher_list {
   list-style-type: none;
@@ -9727,7 +9695,6 @@ body {
   font-size: 16px;
   line-height: 24px;
   color: #fff;
-  cursor: pointer;
 }
 .localeSwitcher_list a,
 .localeSwitcher_list p {
@@ -9747,7 +9714,6 @@ body {
   margin-left: auto;
 }
 .recommended__casino {
-  cursor: pointer;
   position: fixed;
   bottom: -100%;
   left: 0;
@@ -9903,7 +9869,7 @@ body {
 }
 .recommended__casino--mainbtn {
   width: 100%;
-  cursor: pointer;
+
   background: #05e98f;
   padding: 14px 40px;
   border-radius: 16px;
@@ -9916,7 +9882,7 @@ body {
 }
 .recommended__casino--close {
   position: absolute;
-  cursor: pointer;
+
   background: 0 0;
   outline: none;
   border: none;
@@ -10001,7 +9967,6 @@ body.searchDropdown .localeSwitcher {
   font-weight: 500;
   font-size: 14px;
   line-height: 20px;
-  cursor: pointer;
 }
 @media (max-width: 992px) {
   .search__btns--items button {
@@ -10055,7 +10020,6 @@ body.searchDropdown .localeSwitcher {
   flex-direction: column;
   align-items: center;
   margin-right: 20px;
-  cursor: pointer;
 }
 @media (min-width: 992px) {
   .search__popular--items .item:nth-child(5) {
@@ -10287,7 +10251,6 @@ body.searchDropdown .localeSwitcher {
   align-items: center;
   justify-content: center;
   padding: 0;
-  cursor: pointer;
 }
 .header__btn svg {
   width: 28px;
@@ -10390,7 +10353,7 @@ body.searchDropdown .localeSwitcher {
   border-radius: 12px;
   border: none;
   margin: 0;
-  cursor: pointer;
+
   overflow: hidden;
   color: transparent;
 }
@@ -10578,7 +10541,6 @@ body.searchDropdown .localeSwitcher {
   text-decoration: underline;
 }
 .bonusesPopup__description--link {
-  cursor: pointer;
 }
 .bonusesPopup__wrapper {
   width: 100%;
@@ -10606,7 +10568,6 @@ body.searchDropdown .localeSwitcher {
   width: 100%;
 }
 .bonusesPopup__close {
-  cursor: pointer;
   position: absolute;
   display: inline-flex;
   align-items: center;
@@ -10625,7 +10586,6 @@ body.searchDropdown .localeSwitcher {
   margin: 0 -10px;
 }
 .bonusesPopup__item {
-  cursor: pointer;
   width: 100%;
   max-width: 335px;
   background: #fff;
@@ -10737,7 +10697,6 @@ body.searchDropdown .localeSwitcher {
   color: #181818;
 }
 .bonusesPopup__item__info--reviews {
-  cursor: pointer;
   font-weight: 400;
   font-size: 14px;
   line-height: 20px;
@@ -10790,7 +10749,6 @@ body.searchDropdown .localeSwitcher {
   margin-left: 4px;
 }
 .bonusesPopup__item__btn {
-  cursor: pointer;
   width: 100%;
   display: inline-block;
   padding: 14px 40px;
@@ -10837,7 +10795,6 @@ body.searchDropdown .localeSwitcher {
   letter-spacing: 0.01em;
 }
 .bonusesPopup__item__after--select {
-  cursor: pointer;
   display: inline-flex;
   align-items: center;
   font-weight: 400;
@@ -10985,7 +10942,6 @@ body.searchDropdown .localeSwitcher {
   position: absolute;
   right: 16px;
   top: 16px;
-  cursor: pointer;
 }
 .auth_popup-box-full .form .text {
   font-size: 16px;
@@ -10995,7 +10951,6 @@ body.searchDropdown .localeSwitcher {
   margin: 0 auto 36px;
 }
 .auth_popup-box-full .form .text .update {
-  cursor: pointer;
   font-weight: 600;
   color: #7c7bff;
 }
@@ -11015,7 +10970,6 @@ body.searchDropdown .localeSwitcher {
   width: 100%;
 }
 .auth_popup-box-full .form .text_bottom .resend {
-  cursor: pointer;
   font-weight: 600;
   color: #7c7bff;
 }
@@ -11044,7 +10998,6 @@ body.searchDropdown .localeSwitcher {
   font-size: 16px;
   font-weight: 600;
   margin-top: 20px;
-  cursor: pointer;
 }
 .auth_popup-box-full .form .separate {
   display: flex;
@@ -11066,7 +11019,7 @@ body.searchDropdown .localeSwitcher {
   margin-right: 12px;
   background: transparent;
   border: unset;
-  cursor: pointer;
+
   padding: unset;
 }
 .auth_popup-box-full .form .socials .social_button:last-child {
@@ -11196,7 +11149,6 @@ body.searchDropdown .localeSwitcher {
   display: flex;
   align-items: center;
   padding: 0 10px;
-  cursor: pointer;
 }
 @media (max-width: 992px) {
   .auth_popup_right-side .social_btn {
@@ -11218,7 +11170,7 @@ body.searchDropdown .localeSwitcher {
   display: flex;
   align-items: center;
   padding: 0 10px;
-  cursor: pointer;
+
   margin: 0 auto 16px;
 }
 @media (max-width: 992px) {
@@ -11253,7 +11205,7 @@ body.searchDropdown .localeSwitcher {
   background: transparent;
   border: unset;
   padding: unset;
-  cursor: pointer;
+
   outline: unset;
 }
 @media (max-width: 992px) {
@@ -11371,7 +11323,7 @@ body.searchDropdown .localeSwitcher {
   justify-content: center;
   border-radius: 100%;
   left: 15px;
-  cursor: pointer;
+
   display: none;
   z-index: 2;
 }
@@ -11414,7 +11366,7 @@ body.searchDropdown .localeSwitcher {
   border-radius: 2px;
   background: #f1f1f1;
   margin-right: 4px;
-  cursor: pointer;
+
   display: flex;
   align-items: center;
 }
@@ -11437,7 +11389,6 @@ body.searchDropdown .localeSwitcher {
   height: 280px;
   object-fit: contain;
   border-radius: 16px;
-  cursor: pointer;
 }
 .slideShowFull {
   width: 100%;
@@ -11469,14 +11420,14 @@ body.searchDropdown .localeSwitcher {
   position: absolute;
   top: 20px;
   right: 20px;
-  cursor: pointer;
+
   width: 30px;
   height: 30px;
 }
 .slideShowFull .arrow {
   width: 30px;
   height: 30px;
-  cursor: pointer;
+
   margin: 0 10px;
   position: absolute;
   background: rgba(0, 0, 0, 0.6);
@@ -11554,7 +11505,6 @@ body.searchDropdown .localeSwitcher {
   }
 }
 .cookies__banner__btn {
-  cursor: pointer;
   padding: 16px 40px;
   width: 100%;
   background: #05e98f;
@@ -11775,7 +11725,6 @@ input[type="checkbox"] {
   background-color: #fff;
   border: 1px solid #5554de;
   border-radius: 50px;
-  cursor: pointer;
 }
 input[type="checkbox"]:after {
   content: "";
@@ -11873,7 +11822,6 @@ figcaption {
   color: #1f1f1f;
   border-radius: 12px;
   border: 1px solid transparent;
-  cursor: pointer;
 }
 .contactForm_select .title svg {
   width: 24px;
@@ -11904,7 +11852,7 @@ figcaption {
   padding: 8px 16px;
   border-radius: 12px;
   position: relative;
-  cursor: pointer;
+
   transition: 0.2s;
 }
 .contactForm_select .values li:hover {
@@ -12031,7 +11979,6 @@ figcaption {
 .contactForm_popup_block svg {
   width: 24px;
   height: 24px;
-  cursor: pointer;
 }
 .contactForm_popup_block p {
   font-size: 20px;
@@ -12138,7 +12085,6 @@ figcaption {
   display: flex;
   align-items: center;
   justify-content: center;
-  cursor: pointer;
   position: absolute;
   top: 16px;
   right: 16px;
